@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hina/.android/build-cache/676483eb0c05424b5a91b5083628aab4c98d5b05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba1857a91a8e423648aa3c5037768bb79907fcf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hina/.android/build-cache/27c6df58248bdce371349a93cf672113fd410583/output/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_6bd4c3e4c9b16349c2c09e5a455b21846b1d5ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f31b5683da0f59cc48f5fe2ad702105fe5c0092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hina/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_185e611510dbe7b7326bd15fc8a1d06c7dcc4f9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hina/.android/build-cache/27c6df58248bdce371349a93cf672113fd410583/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37d84215b25e322af3537ddca0bbd97e4b139d86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="964fb605e3dbeb4dc06563527b59c7a585dd7822">
+        <dex dex="/home/hina/Documents/Android/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c512f1fba123a76b93c6fb36c933576aca3bbba4/classes.dex" />
+    </item>
+
+</items>
